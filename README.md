@@ -1,7 +1,7 @@
 # foodponda(夫胖達)
 ---
 點餐系統  
-使用windowbuilder結合Jframe開發 
+使用windowbuilder結合Jframe開發  
 JAVA版本:11
 # 功能介紹
 ## 1. 會員功能(連接資料庫)
